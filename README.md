@@ -1,6 +1,8 @@
-# QMK Userspace
+# QMK Userspace Niscient
 
-This is a template repository which allows for an external set of QMK keymaps to be defined and compiled. This is useful for users who want to maintain their own keymaps without having to fork the main QMK repository.
+This is a repository holding Niscient's config, keymap, and rules for Splitkb's Kyria rev1.4 and rev3.0 boards.
+
+It is based on the QMK Userspace template repository which allows for an external set of QMK keymaps to be defined and compiled. This is useful for users who want to maintain their own keymaps without having to fork the main QMK repository.
 
 ## Howto configure your build targets
 
